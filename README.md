@@ -33,8 +33,7 @@ Material auxiliar para entrevista
 	- Tem experiência com bancos de dados não relacionais? 
 	- Como você analisaria um problema de performance em um banco de dados 
 	- relacional? 
-	- Como você analisaria um problema de performance em um banco de dados não 
-	relacional? 
+	- Como você analisaria um problema de performance em um banco de dados não relacional? 
 	- O que você sabe sobre elasticsearch? 
 	- O que você sabe sobre MongoDB? 
 	- O que você sabe sobre Oracle? 
@@ -86,8 +85,7 @@ Material auxiliar para entrevista
 	
 ## Feedback 
 	- O que você sabe sobre feedback? 
-	- Como você daria um feedback para o presidente da empresa? E para um 
-	estagiário? 
+	- Como você daria um feedback para o presidente da empresa? E para um estagiário? 
 	- O que não deveria acontecer em uma sessão de feedback? 
 	- Na sua opinião, o que é um bom feedback? 
 ## Motivação 
