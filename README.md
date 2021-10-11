@@ -3,9 +3,9 @@ Material auxiliar para entrevista
 
 
 ## Empresa:
-	O que você conhece sobre a empresa?
+	- O que você conhece sobre a empresa?
 ## Ágil
-	O que é metodologia Ágil pra você?
+	- O que é metodologia Ágil pra você?
 	Tem experiência com Scrum, Kanban e XP? Qual a diferença entre eles?
 	Falando em scrum, qual é a cerimônia mais importante na sua opinião?
 	O que é débito técnico? Como você lida com eles?
